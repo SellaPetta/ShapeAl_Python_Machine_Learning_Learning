@@ -34,18 +34,8 @@ or follow DevTown on:
 
 "https://www.linkedin.com/company/devtown-in/">LinkedIn</a>
 
-<li><a href=
+<li><a href="https://www.instagram.com/devtown.in/">Instagram</a>
 
-"https://www.instagram.com/devtown.in/">Instagram</a>
+<li><a href="https://www.youtube.com/c/DevTownIndia">YouTube</a>
 
-<li><a
-
-href=
-
-"https://www.youtube.com/c/DevTownIndia">YouTu
-
-be</a>
-
-<li><a href=
-
-"https://github.com/shapeai">GitHub</a>
+<li><a href="https://github.com/shapeai">GitHub</a>
